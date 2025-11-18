@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on AGÜITAS FOTOCLUB</title>
+    <link>http://localhost:1313/aguitas/blog/</link>
+    <description>Recent content in Blogs on AGÜITAS FOTOCLUB</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/aguitas/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noche con Juan Rulfo</title>
+      <link>http://localhost:1313/aguitas/blog/reunion-juan/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aguitas/blog/reunion-juan/</guid>
+      <description>Esto es un post temporal para probar la sección de blog.</description>
+    </item>
+    <item>
+      <title>Caminata los Parque Berros</title>
+      <link>http://localhost:1313/aguitas/blog/parque-berros/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aguitas/blog/parque-berros/</guid>
+      <description>Esto es un post temporal para probar la sección de blog.</description>
+    </item>
+    <item>
+      <title>Calle la Moderna</title>
+      <link>http://localhost:1313/aguitas/blog/la-moderna/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aguitas/blog/la-moderna/</guid>
+      <description>Esto es un post temporal para probar la sección de blog.</description>
+    </item>
+    <item>
+      <title>Barrio de la Orduña</title>
+      <link>http://localhost:1313/aguitas/blog/barrio-orduna/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aguitas/blog/barrio-orduna/</guid>
+      <description>Esto es un post temporal para probar la sección de blog.</description>
+    </item>
+  </channel>
+</rss>

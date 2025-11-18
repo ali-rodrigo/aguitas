@@ -1,0 +1,32 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/blog/reunion-juan/</loc>
+      <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/blog/parque-berros/</loc>
+      <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/blog/la-moderna/</loc>
+      <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/blog/barrio-orduna/</loc>
+      <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/about/</loc>
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/aguitas/contact/</loc>
+    </url>
+  
+</urlset>
